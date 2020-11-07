@@ -1,0 +1,31 @@
+= Cocktail-Versand
+Nina Püschmann <s79289@htw-dresden.de
+1.0, 07.11.2020
+:toc:
+:toc-title:
+Inhaltsverzeichnis
+
+== Mitglieder
+.Mitglieder
+|===
+|*Name*|*Funktion*|*Aufgabe*
+|Tobias Karsch|Scriptkiddie|1
+|Nina Püschmann|El jefe|2
+|===
+
+== Aufgaben
+
+=== Was ist Ziel bzw. Vision des zu entwickelnden Systems?
+* Diskussion: Wieso ist es wichtig am Anfang diese zu definieren?
+_Hinweis: Eine Vision fasst die Vision eines Projektes zusammen. Sie dient dazu, die großen Ideen knapp zu kommunizieren (Larman 2005, S. 138)_
+
+a) Finden Sie *mögliche Stakeholder* mit den jeweiligen Interessen heraus.
+
+|===
+|*Stakeholder*|*Interesse*
+|===
+
+b) Fügen Sie *wichtige Begriffe* mit Beschreibung zum Glossary hinzu. Ein Beispiel für das gegebene Szenario finden Sie im Anhang.
+_Hinweis: Das Glossary ist nach dieser Aufgabe noch nicht vollständig, sondern wird fortlaufend ergänzt._
+
+== Glossary
