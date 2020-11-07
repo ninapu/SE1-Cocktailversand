@@ -28,4 +28,19 @@ a) Finden Sie *mögliche Stakeholder* mit den jeweiligen Interessen heraus.
 b) Fügen Sie *wichtige Begriffe* mit Beschreibung zum Glossary hinzu. Ein Beispiel für das gegebene Szenario finden Sie im Anhang.
 _Hinweis: Das Glossary ist nach dieser Aufgabe noch nicht vollständig, sondern wird fortlaufend ergänzt._
 
+=== Hinweise zu Aufgaben
+. Arbeiten Sie im Idealfall zu zweit oder zu dritt, um sich gemeinsam über die notwendigen Analyseschritte auszutauschen.
+. Legen Sie auf GitHub ein neues Repository „SE1-Cocktailversand“ an.
+. Nutzen Sie für ein systematisches Vorgehen die OpenUP-Dokumentation unter
+https://www2.htw-dresden.de/~anke/openup/index.htm
+. Dokumentieren Sie ihre Ergebnisse im Asciidoc-Format. Entsprechende Vorlagen finden Sie in unserem GitHub-Repo „Projektstruktur_OpenUP-Templates“
+. Diskussionsaufgaben beantworten Sie schriftlich in Stichpunkten als Teil der Dokumentation.
+. Nutzen Sie in der OpenUP Dokumentation insbesondere die Hinweise in Task „Develop Technical Vision“ _(https://www2.htw-dresden.de/~anke/openup/process.openup.base/capabilitypatterns/develop_technical_vision_89F6E7DB.html)_ und die Checkliste _(https://www2.htw-dresden.de/~anke/openup/process.openup.base/capabilitypatterns/vision_69999C5F.html)_ für das Work Product „Vision“
+
 == Glossary
+
+=== Kunde
+Bezeichnet in diesem Kontext die Käufer der Cocktails. Synonyme sind Nutzer, Benutzer.
+
+=== Barbetreiber
+Bezeichnet den Geschäftsführer der Bar, der die Anforderungen stellt und bestimmt, ob das System als abgenommen gilt.
