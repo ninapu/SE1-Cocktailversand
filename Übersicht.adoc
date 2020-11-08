@@ -9,7 +9,7 @@ Inhaltsverzeichnis
 .Mitglieder
 |===
 |*Name*|*Funktion*|*Aufgabe*
-|Tobias Karsch|Scriptkiddie|1
+|Tobias Karsch|Cocktailtestgruppe|1
 |Nina Püschmann|El jefe|2
 |===
 
@@ -19,10 +19,39 @@ Inhaltsverzeichnis
 * Diskussion: Wieso ist es wichtig am Anfang diese zu definieren?
 _Hinweis: Eine Vision fasst die Vision eines Projektes zusammen. Sie dient dazu, die großen Ideen knapp zu kommunizieren (Larman 2005, S. 138)_
 
+** Diskussionsgrundlage schaffen
+** Scope abschätzen
+** Zielführende User Stories formulieren
+** Auftraggeber + Auftrag verstehen, Verhandlungsgrundlage schaffen (agiles PM -> kein klassisches Lastenheft!)
+** ...
+
 a) Finden Sie *mögliche Stakeholder* mit den jeweiligen Interessen heraus.
 
 |===
 |*Stakeholder*|*Interesse*
+
+|Barbesitzer 
+a|* Umsatz 
+* Kundengewinn
+* Markterschließung 
+* Marketing
+* Prozessfunktionalität (Keine Betrugsmöglichkeit, Automatisierung -> Einfachheit, Fehlerfreier Versand)
+
+|Kunden 
+a|* Einfachheit im Bestellvorgang
+* Anschaulichkeit
+* Größtmögliche Kombinationsfreiheit
+
+|Barkeeper/Produzent 
+a|* Möglichst wenig Kombinationsfreihet der Kunden
+* Einfache Darstellung der Bestellung und Zutaten
+
+|Versanddienstleister
+a|* ?
+ 
+|Zahlungsdienstleister
+a|* ?
+
 |===
 
 b) Fügen Sie *wichtige Begriffe* mit Beschreibung zum Glossary hinzu. Ein Beispiel für das gegebene Szenario finden Sie im Anhang.
